@@ -1,7 +1,7 @@
 # project-euler
 My solutions to [ProjectEuler.net](https://projecteuler.net/) problems.
 
-Solved: 259
+Solved: 260
 
 Highest Difficulty: 95% (Problem 768)
 
